@@ -10,12 +10,16 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
-
+print("Better with Time by Leona Lewis")
+print("Masterpiece by Jessie J")
 
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
+print("It's been a long time without you")
+print("I didn't know where to turn to")
+print("I don't know how to forget you")
+print("because of how far we have come through")
 
 
 /*:
